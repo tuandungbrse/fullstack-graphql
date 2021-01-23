@@ -8,19 +8,22 @@
       "id": "1",
       "createdAt": 1231232,
       "name": "Kitty",
-      "type": "CAT"
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "2",
       "createdAt": 1231232,
       "name": "TOM",
-      "type": "DOG"
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "ir9HHImQwlKd-nsEJc-px",
       "createdAt": 1611387071411,
       "type": "Lion",
-      "name": "LOL"
+      "name": "LOL",
+      "user": "jBWMVGjm50l6LGwepDoty"
     }
   ]
 }
